@@ -29,8 +29,8 @@
     </h3>
     <p dir="auto">
      <ui>
-      <li><strong>Languages</strong>: Solidity,Web3 , Solana , Rust , Golang , python</li>
-      <li><strong>Blockchains</strong>:EVM, Solana, SUI</li>
+      <li><strong>Languages</strong>: React , Next , Node , Supabase , python </li>
+      <li><strong>AI</strong>: ChatGPT , OpenAPI , AI Chatbot , AI BotMachine Learning , AI App Development </li>
      </ui>
     </p>
 
